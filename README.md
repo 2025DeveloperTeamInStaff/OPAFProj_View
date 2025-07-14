@@ -1,4 +1,4 @@
-<img width="464" height="20" alt="image" src="https://github.com/user-attachments/assets/4be9f4c6-8788-4cb7-b88c-d808ea8ffa84" /><img width="103" height="20" alt="image" src="https://github.com/user-attachments/assets/d9d5b5ce-85bb-4ad6-b974-dec9a349600f" /># CialloProject_View
+# CialloProject_View
 AHSFNU创客工坊2025&AHSFNU新媒体部<br>
 为新媒体部构建一个云服务，来Make 新媒体部 Great Again<br>
 1.对新媒体部大型活动图片视频建立素材库，对同学们开放活动素材的下载<br>
