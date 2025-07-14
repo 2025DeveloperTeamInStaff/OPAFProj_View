@@ -35,10 +35,16 @@ AHSFNU创客工坊2025&AHSFNU新媒体部<br>
 ## 数据库
  # user
   id username password level token1 token2 token3
+<img width="819" height="20" alt="image" src="https://github.com/user-attachments/assets/d708c363-c8c0-479d-8a2d-817e3917a5ba" />
+
  # workflow
    id	name	start_date	last_time	type	<用户列表>
+<img width="809" height="20" alt="image" src="https://github.com/user-attachments/assets/2012f008-0f41-4729-be68-fe60b0cb7734" />
+
  # res
    //Todo
  # invite
    id	invite_code	from_user	end_date
+<img width="464" height="20" alt="image" src="https://github.com/user-attachments/assets/fac9ba8b-a30e-4c89-89f7-103558cd0c78" />
+
 
