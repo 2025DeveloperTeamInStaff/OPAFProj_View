@@ -1,4 +1,4 @@
-# CialloProject_View
+<img width="464" height="20" alt="image" src="https://github.com/user-attachments/assets/4be9f4c6-8788-4cb7-b88c-d808ea8ffa84" /><img width="103" height="20" alt="image" src="https://github.com/user-attachments/assets/d9d5b5ce-85bb-4ad6-b974-dec9a349600f" /># CialloProject_View
 AHSFNU创客工坊2025&AHSFNU新媒体部<br>
 为新媒体部构建一个云服务，来Make 新媒体部 Great Again<br>
 1.对新媒体部大型活动图片视频建立素材库，对同学们开放活动素材的下载<br>
@@ -31,3 +31,14 @@ AHSFNU创客工坊2025&AHSFNU新媒体部<br>
 ### 5.云存储
 ​	飞牛存储(主)<br>
 ​	百度网盘(备份)
+
+## 数据库
+ # user
+  id username password level token1 token2 token3
+ # workflow
+   id	name	start_date	last_time	type	<用户列表>
+ # res
+   //Todo
+ # invite
+   id	invite_code	from_user	end_date
+
