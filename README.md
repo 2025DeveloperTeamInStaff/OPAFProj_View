@@ -23,7 +23,8 @@ AHSFNU创客工坊2025&AHSFNU新媒体部<br>
 ### 1.前端
 ​	SpringBoot
 ### 2.后端
-​	Postgresql
+​	Postgresql<br>
+ Redis
 ### 3.桌面开发
 ​	.NET
 ### 4.Android
@@ -48,3 +49,5 @@ AHSFNU创客工坊2025&AHSFNU新媒体部<br>
 <img width="464" height="20" alt="image" src="https://github.com/user-attachments/assets/fac9ba8b-a30e-4c89-89f7-103558cd0c78" />
 
 
+## API
+### 1.Login
